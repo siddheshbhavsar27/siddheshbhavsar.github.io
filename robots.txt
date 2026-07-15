@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siddheshbhavsar27.github.io/siddheshbhavsar.github.io/sitemap.xml
